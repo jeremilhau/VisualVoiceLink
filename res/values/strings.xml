@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2011 The Android Open Source Project.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">VisualVoiceLink</string>
+    <!-- AddVoicemailActivity -->
+    <string name="add_voicemail">Enregistrer un message</string>
+    <string name="sender_number">Expéditeur</string>
+    <string name="time">Date au format DD/MM/YYYY hh:mm</string>
+    <string name="duration">Durée en secondes</string>
+    <string name="mime_type">Type MIME </string>
+    <string name="voicemail_store_error">Erreur de stockage du message !</string>
+    <string name="send">Envoyer message</string>
+    <string name="record_voice">Enregistrer le message</string>
+</resources>

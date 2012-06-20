@@ -14,3 +14,6 @@ gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
+
+# Mac OS X Finder and whatnot
+.DS_Store
