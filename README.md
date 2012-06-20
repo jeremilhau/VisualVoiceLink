@@ -12,7 +12,7 @@ L'application doit via une connexion IMAP récupérer un message vocal envoyé p
 
 La création de voicemail fonctionne déjà (voir code initial) grace aux démo du projet Android.
 
-cf https://docs.google.com/drawings/d/1PflMU_wSkBtmh3jeSBpLIvCVWIdsSVamL7fg-9cDKq8 pour le fonctionnement général.
+cf https://docs.google.com/drawings/d/1PflMU_wSkBtmh3jeSBpLIvCVWIdsSVamL7fg-9cDKq8/edit pour le fonctionnement général.
 
 ##Technique
 
